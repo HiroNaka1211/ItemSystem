@@ -1,0 +1,13 @@
+C:\Users\njim1\Desktop\IFN664\bin\Debug\netcoreapp3.1\IFN664.exe
+C:\Users\njim1\Desktop\IFN664\bin\Debug\netcoreapp3.1\IFN664.deps.json
+C:\Users\njim1\Desktop\IFN664\bin\Debug\netcoreapp3.1\IFN664.runtimeconfig.json
+C:\Users\njim1\Desktop\IFN664\bin\Debug\netcoreapp3.1\IFN664.runtimeconfig.dev.json
+C:\Users\njim1\Desktop\IFN664\bin\Debug\netcoreapp3.1\IFN664.dll
+C:\Users\njim1\Desktop\IFN664\bin\Debug\netcoreapp3.1\IFN664.pdb
+C:\Users\njim1\Desktop\IFN664\obj\Debug\netcoreapp3.1\IFN664.csprojAssemblyReference.cache
+C:\Users\njim1\Desktop\IFN664\obj\Debug\netcoreapp3.1\IFN664.AssemblyInfoInputs.cache
+C:\Users\njim1\Desktop\IFN664\obj\Debug\netcoreapp3.1\IFN664.AssemblyInfo.cs
+C:\Users\njim1\Desktop\IFN664\obj\Debug\netcoreapp3.1\IFN664.csproj.CoreCompileInputs.cache
+C:\Users\njim1\Desktop\IFN664\obj\Debug\netcoreapp3.1\IFN664.dll
+C:\Users\njim1\Desktop\IFN664\obj\Debug\netcoreapp3.1\IFN664.pdb
+C:\Users\njim1\Desktop\IFN664\obj\Debug\netcoreapp3.1\IFN664.genruntimeconfig.cache
